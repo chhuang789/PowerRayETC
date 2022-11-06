@@ -1,0 +1,350 @@
+{
+    "IP Range": [
+        {
+            "From": "192.168.66.3",
+            "To": "192.168.66.254"
+        },
+        {
+            "From": "192.168.77.3",
+            "To": "192.168.77.254"
+        },
+        {
+            "From": "192.168.88.3",
+            "To": "192.168.88.254"
+        },
+        {
+            "From": "192.168.88.203",
+            "To": "192.168.88.203"
+        },
+        {
+            "From": "192.168.77.131",
+            "To": "192.168.77.131"
+        }
+    ],
+    "Pool": [
+        {
+            "1": "stratum+tcp://asia1-etc.ethermine.org:4444"
+        }
+    ],
+    "Wallet": [
+        {
+            "1": "0x57fc699ad1249f65759e1af273e26350dece1eb6",
+            "2": "0x20c0ac4e73ed4db87fef692991c0f4becff93cbc"
+        }
+    ],
+    "Password": [
+        {
+            "1": "1234"
+        }
+    ],
+    "Scanning Timeout": 2,
+    "Refresh Timeout": 30,
+    "Stop Timeout": 100,
+    "Home": 0,
+    "Debug": 0,
+    "Verbose": 2,
+    "Test": 0,
+    "Known_hosts": "C:\\Users\\Administrator\\.ssh\\known_hosts",
+    "scp scripts": "C:\\Users\\Administrator\\scripts\\ch",
+    "Windows Username": "administrator",
+    "URL": [
+        {
+            "1": "57fc699ad1249f65759e1af273e26350dece1eb6",
+            "2": "20c0ac4e73ed4db87fef692991c0f4becff93cbc"
+        }
+    ],
+    "OSC Clock": [
+        {
+            "1": "19.0",
+            "2": "19.5",
+            "3": "20.0"
+        }
+    ],
+    "MSSQL": [
+        {
+            "host": "192.168.1.5",
+            "port": 1433,
+            "user": "test123",
+            "password": "test",
+            "database": "Darwin_SB",
+            "StoredProcedure": "PROC_GetServerID"
+        }
+    ],
+    "MySQL": [
+        {
+            "host": "localhost",
+            "port": 3306,
+            "user": "root",
+            "password": "Acl-123!",
+            "database": "PowerRayETC"
+        }
+    ],
+    "PR_8X_FAN_DUTY": [
+        {
+            "1": "50",
+            "2": "60",
+            "3": "70",
+            "4": "80",
+            "5": "90",
+            "6": "100"
+        }
+    ],
+    "Show All": [
+        {
+            "Model": "1",
+            "IP": "1",
+            "Worker": "1",
+            "MAC": "1",
+            "ServerID": "1",
+            "Status": "1",
+            "Progress1": "1",
+            "Progress2": "1",
+            "Progress3": "1",
+            "Progress4": "1",
+            "Progress5": "1",
+            "Progress6": "1",
+            "Progress7": "1",
+            "Progress8": "1",
+            "PoolHashRate": "1",
+            "SelfCalHashRate": "1",
+            "WorkingAsic": "1",
+            "FAN1": "1",
+            "FAN2": "1",
+            "FAN3": "1",
+            "FAN4": "1",
+            "FAN5": "1",
+            "PoolAddress": "1",
+            "WalletAddress": "1",
+            "Account": "1",
+            "Password": "1",
+            "MinerOPFreq": "1",
+            "PowerConsumption": "1",
+            "DHCPorFixedIP": "1",
+            "BoardTemp1": "1",
+            "BoardTemp2": "1",
+            "BoardTemp3": "1",
+            "BoardTemp4": "1",
+            "BoardTemp5": "1",
+            "BoardTemp6": "1",
+            "BoardTemp7": "1",
+            "BoardTemp8": "1",
+            "FailCode": "1",
+            "FailDesc": "1"
+        }
+    ],
+    "Show 1": [
+        {
+            "Model": "1",
+            "IP": "1",
+            "Worker": "0",
+            "MAC": "1",
+            "ServerID": "1",
+            "Status": "1",
+            "Progress1": "0",
+            "Progress2": "0",
+            "Progress3": "0",
+            "Progress4": "0",
+            "Progress5": "0",
+            "Progress6": "0",
+            "Progress7": "0",
+            "Progress8": "0",
+            "PoolHashRate": "1",
+            "SelfCalHashRate": "0",
+            "WorkingAsic": "0",
+            "FAN1": "0",
+            "FAN2": "0",
+            "FAN3": "0",
+            "FAN4": "0",
+            "FAN5": "0",
+            "PoolAddress": "0",
+            "WalletAddress": "1",
+            "Account": "0",
+            "Password": "0",
+            "MinerOPFreq": "1",
+            "PowerConsumption": "0",
+            "DHCPorFixedIP": "0",
+            "BoardTemp1": "0",
+            "BoardTemp2": "0",
+            "BoardTemp3": "0",
+            "BoardTemp4": "0",
+            "BoardTemp5": "0",
+            "BoardTemp6": "0",
+            "BoardTemp7": "0",
+            "BoardTemp8": "0",
+            "FailCode": "1",
+            "FailDesc": "1"
+        }
+    ],
+    "Show 2": [
+        {
+            "Model": "1",
+            "IP": "1",
+            "Worker": "1",
+            "MAC": "1",
+            "ServerID": "1",
+            "Status": "1",
+            "Progress1": "0",
+            "Progress2": "0",
+            "Progress3": "0",
+            "Progress4": "0",
+            "Progress5": "0",
+            "Progress6": "0",
+            "Progress7": "0",
+            "Progress8": "0",
+            "PoolHashRate": "1",
+            "SelfCalHashRate": "1",
+            "WorkingAsic": "1",
+            "FAN1": "1",
+            "FAN2": "1",
+            "FAN3": "0",
+            "FAN4": "0",
+            "FAN5": "1",
+            "PoolAddress": "1",
+            "WalletAddress": "1",
+            "Account": "1",
+            "Password": "1",
+            "MinerOPFreq": "1",
+            "PowerConsumption": "1",
+            "DHCPorFixedIP": "1",
+            "BoardTemp1": "1",
+            "BoardTemp2": "1",
+            "BoardTemp3": "1",
+            "BoardTemp4": "1",
+            "BoardTemp5": "1",
+            "BoardTemp6": "1",
+            "BoardTemp7": "1",
+            "BoardTemp8": "1",
+            "FailCode": "1",
+            "FailDesc": "1"
+        }
+    ],
+    "Show 3": [
+        {
+            "Model": "1",
+            "IP": "1",
+            "Worker": "1",
+            "MAC": "1",
+            "ServerID": "1",
+            "Status": "1",
+            "Progress1": "0",
+            "Progress2": "0",
+            "Progress3": "0",
+            "Progress4": "0",
+            "Progress5": "0",
+            "Progress6": "0",
+            "Progress7": "0",
+            "Progress8": "0",
+            "PoolHashRate": "1",
+            "SelfCalHashRate": "1",
+            "WorkingAsic": "1",
+            "FAN1": "1",
+            "FAN2": "1",
+            "FAN3": "0",
+            "FAN4": "0",
+            "FAN5": "1",
+            "PoolAddress": "1",
+            "WalletAddress": "1",
+            "Account": "0",
+            "Password": "1",
+            "MinerOPFreq": "1",
+            "PowerConsumption": "1",
+            "DHCPorFixedIP": "0",
+            "BoardTemp1": "1",
+            "BoardTemp2": "1",
+            "BoardTemp3": "1",
+            "BoardTemp4": "1",
+            "BoardTemp5": "1",
+            "BoardTemp6": "1",
+            "BoardTemp7": "1",
+            "BoardTemp8": "1",
+            "FailCode": "1",
+            "FailDesc": "1"
+        }
+    ],
+    "Show 4": [
+        {
+            "Model": "1",
+            "IP": "1",
+            "Worker": "1",
+            "MAC": "1",
+            "ServerID": "1",
+            "Status": "1",
+            "Progress1": "0",
+            "Progress2": "0",
+            "Progress3": "0",
+            "Progress4": "0",
+            "Progress5": "0",
+            "Progress6": "0",
+            "Progress7": "0",
+            "Progress8": "0",
+            "PoolHashRate": "1",
+            "SelfCalHashRate": "1",
+            "WorkingAsic": "1",
+            "FAN1": "1",
+            "FAN2": "1",
+            "FAN3": "0",
+            "FAN4": "0",
+            "FAN5": "1",
+            "PoolAddress": "1",
+            "WalletAddress": "1",
+            "Account": "0",
+            "Password": "1",
+            "MinerOPFreq": "1",
+            "PowerConsumption": "1",
+            "DHCPorFixedIP": "0",
+            "BoardTemp1": "1",
+            "BoardTemp2": "1",
+            "BoardTemp3": "1",
+            "BoardTemp4": "1",
+            "BoardTemp5": "1",
+            "BoardTemp6": "1",
+            "BoardTemp7": "0",
+            "BoardTemp8": "0",
+            "FailCode": "1",
+            "FailDesc": "1"
+        }
+    ],
+    "Show 5": [
+        {
+            "Model": "0",
+            "IP": "1",
+            "Worker": "1",
+            "MAC": "0",
+            "ServerID": "0",
+            "Status": "0",
+            "Progress1": "0",
+            "Progress2": "0",
+            "Progress3": "0",
+            "Progress4": "0",
+            "Progress5": "0",
+            "Progress6": "0",
+            "Progress7": "0",
+            "Progress8": "0",
+            "PoolHashRate": "0",
+            "SelfCalHashRate": "0",
+            "WorkingAsic": "0",
+            "FAN1": "0",
+            "FAN2": "0",
+            "FAN3": "0",
+            "FAN4": "0",
+            "FAN5": "0",
+            "PoolAddress": "0",
+            "WalletAddress": "0",
+            "Account": "0",
+            "Password": "0",
+            "MinerOPFreq": "0",
+            "PowerConsumption": "0",
+            "DHCPorFixedIP": "0",
+            "BoardTemp1": "0",
+            "BoardTemp2": "0",
+            "BoardTemp3": "0",
+            "BoardTemp4": "0",
+            "BoardTemp5": "0",
+            "BoardTemp6": "0",
+            "BoardTemp7": "0",
+            "BoardTemp8": "0",
+            "FailCode": "1",
+            "FailDesc": "1"
+        }
+    ]
+}
